@@ -1,3 +1,7 @@
+# Screenshot
+![](https://github.com/ngyixuan/test-switcheo-3/blob/main/screenshot2.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
