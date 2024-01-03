@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.walletRow {
+  padding: 10px;
+}
